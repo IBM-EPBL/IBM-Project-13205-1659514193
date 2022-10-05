@@ -11,6 +11,6 @@ _Agriculture is the backbone of the Indian economy. For agriculture, the most im
 4. Vivekanandhan S [718019Z261]
 
  
-Industry Mentors: _Mahidhar_, _Mohammed Azhar Uddin_
+[comment]: # (Industry Mentors: _Mahidhar_, _Mohammed Azhar Uddin_)
 
 Faculty Mentor: _Dr.Kavitha C_
