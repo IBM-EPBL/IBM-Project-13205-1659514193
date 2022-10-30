@@ -1,0 +1,139 @@
+.signup{
+    background: none;
+    border: 2px solid;
+    margin-left: 10px;
+    padding: 5px 15px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.signup:hover{
+    background-color: black;
+    color:aliceblue;
+}
+.login{
+    border: none;
+    background: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.login:hover{
+    background: black;
+    color: aliceblue;
+    border-radius: 9px;
+}
+.NavMenu{
+    float: right;
+    margin-top: 12px;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 35px;
+    margin-right: 36px;
+}
+#NavBar{
+    background: aliceblue;
+    position: relative;
+    height: 50px;
+}
+.NavIcon{
+    display: none;
+}
+.NavLinks{
+    text-decoration: none;
+    color: black;
+    font-family: Montserrat;
+    cursor: pointer;
+}
+.NavLinks:hover{
+    font-weight: bold;
+}
+.logn{
+    display: inline-block;
+    float: right;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+.closebtn{
+    position: absolute;
+    font-size: 35px;
+    font-weight: 800;
+    top: 0;
+    right: 9px;
+}
+.btnLogin{
+    border: none;
+    font-weight: 600;
+    padding: 5px 40px;
+    padding-top: 8px;
+    margin-left: 26%;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.input{
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid #00000078;
+    border-radius: 2px;
+}
+.label{
+    margin-bottom: 4px;
+}
+.logoWrite{
+    top: 10px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 600;
+    left: 20px;
+}
+.paraLink{
+    cursor: pointer;
+    font-weight: 600;
+}
+.head{
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+.para{
+    margin-top: 10px;
+    font-size: 12px;
+    text-align: center;
+}
+.forgetPassword{
+
+    float: right;
+    font-size: 13px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+
+}
+@media screen and (max-width:760px) {
+    .NavIcon{
+        display: inline-block;
+    font-size: 20px;
+    border: 2px solid;
+    border-radius: 7px;
+    padding: 2px 8px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 15px;
+    }
+    .NavMenu{
+        grid: none;
+    grid-gap: 25px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 38px;
+    left: -150%;
+    background: #f0f8ffa3;
+    padding: 18px 5px;
+    border-radius: 25px;
+    transition: all 0.5s ease;
+    }
+    .yes{
+        left: 0%;
+        transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    }
+}
