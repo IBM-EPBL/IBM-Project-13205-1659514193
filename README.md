@@ -13,6 +13,8 @@ _Agriculture is the backbone of the Indian economy. For agriculture, the most im
  
 [comment]: # (Industry Mentors: _Mahidhar_, _Mohammed Azhar Uddin_)
 
-Faculty Mentor: _Dr. Kavitha C_, Assistant Professor (Sl. Gr.), [PSG College of Technology.](https://www.psgtech.edu/)
+Faculty Mentor: _Dr. Kavitha C_, Assistant Professor (Sl. Gr.), [PSG College of Technology, Coimbatore](https://www.psgtech.edu/)
 
 _**Note**: All the team members are requested to kindly follow the given [folder structure](https://drive.google.com/file/d/1nQ4Bs3THdvdZPk63skIj-jWKR0ineYKR/view?usp=sharing) and execute any commits or any other git operations with utmost care._
+
+_All the necessary project directories & final deliverables would be updated here by 19th Nov 2022, 11:59 PM IST._
