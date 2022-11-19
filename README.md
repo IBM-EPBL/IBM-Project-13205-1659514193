@@ -15,4 +15,14 @@ _Agriculture is the backbone of the Indian economy. For agriculture, the most im
 
 Faculty Mentor: _Dr. Kavitha C_, Assistant Professor (Sl. Gr.), [PSG College of Technology, Coimbatore](https://www.psgtech.edu/)
 
-_**Note**: All the team members are requested to kindly follow the given [folder structure](https://drive.google.com/file/d/1nQ4Bs3THdvdZPk63skIj-jWKR0ineYKR/view?usp=sharing) and execute any commits or any other git operations with utmost care._
+## Features & Screenshots:
+
+- Registration & Login: _For user account creation and login_
+![Image1](Final&nbsp;Deliverables/Screenshots/CreateAccountPage.jpeg)
+- Dashboard: _showing rainfall analysis of India_
+
+- Home Page: _for navigating to other modules_
+
+- Predictor: _for predicting the rainfall_
+
+- Result & Feedback: _for showing predicted output and customer support_
