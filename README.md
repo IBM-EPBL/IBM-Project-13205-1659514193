@@ -17,10 +17,9 @@ Faculty Mentor: _Dr. Kavitha C_, Assistant Professor (Sl. Gr.), [PSG College of 
 
 ## Features & Screenshots:
 
-- Registration & Login: _For user account creation and login_
+- Registration & Login: _for user account creation and login_
 
-![Image1](Final_Deliverables/Screenshots/CreateAccountPage.jpeg)
-![Image1](Final_Deliverables/Screenshots/LoginPage.jpeg)
+![Image1](Final_Deliverables/Screenshots/CreateAccountPage.jpeg) ![Image1](Final_Deliverables/Screenshots/LoginPage.jpeg)
 - Dashboard: _showing rainfall analysis of India_
 
 ![Image1](Final_Deliverables/Screenshots/DashboardPage.png)
