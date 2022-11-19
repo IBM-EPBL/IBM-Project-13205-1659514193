@@ -1,0 +1,100 @@
+.label{
+
+}
+#heading{
+    color: #24d3d3;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: 800;
+}
+.input{
+    background: #ebe9e978;
+    height: 28px;
+}
+#wd9{
+    margin-top: 28px;
+}
+.prediction{
+    border: none;
+    background: cyan;
+    width: fit-content;
+    /* text-align: center; */
+    text-decoration: none;
+    color: black;
+    padding: 6px 22px;
+    border-radius: 6px;
+    margin-left: 45%;
+    font-family: 'Montserrat';
+    box-shadow: 0px 0px 4px -1px black;
+}
+.selection{
+    margin-left: 15px;
+    width: 200px;
+    height: 28px;
+    margin-bottom: 16px;
+}
+.outbox{
+    background: cyan;
+}
+.whitebox{
+    background: white;
+    font-family: 'Montserrat';
+    border-radius: 8px;
+    box-shadow: 0px 1px 7px -1px black;
+    padding: 15px;
+
+    margin-bottom: 5px;
+}
+.dummy{
+    background: cyan;
+    height: 5vh;
+}
+.result{
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: red;
+    letter-spacing: 1px;
+}
+.output{
+    font-family: Montserrat;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: 800;
+    
+}
+.feedBack{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.button{
+    text-decoration: none;
+    /* text-align: center; */
+    border: solid 2px blue;
+    background: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    padding: 2px 15px;
+    border-radius: 7px;
+
+}
+.submit-b{
+    border: none;
+    border-radius: 7px;
+    padding: 2px 15px;
+}
+.resultmage{
+    height: 250px;
+    width: 350px;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width:760px) {
+    .prediction{
+        margin-left: 40%;
+    }
+}
