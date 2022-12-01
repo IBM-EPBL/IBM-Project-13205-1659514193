@@ -9,11 +9,11 @@ _Agriculture is the backbone of the Indian economy. For agriculture, the most im
 2. Soumen Saha [718019Z245]
 3. Sudharsan V [718019Z249]
 4. Vivekanandhan S [718019Z261]
-
  
-[comment]: # (Industry Mentors: _Mahidhar_, _Mohammed Azhar Uddin_)
+## Acknowledgement
 
-Faculty Mentor: _Dr. Kavitha C_, Assistant Professor (Sl. Gr.), [PSG College of Technology, Coimbatore](https://www.psgtech.edu/)
+We would like to sincerely thank IBM for exposing us to its key technologies and for providing a number of implementations of them. We appreciate the collaboration of every member of our team and the Naan Mudhalvan programme of the Tamil Nadu government in delivering this project to a successful conclusion.
+
 
 ## Features & Screenshots:
 
@@ -32,8 +32,3 @@ Faculty Mentor: _Dr. Kavitha C_, Assistant Professor (Sl. Gr.), [PSG College of 
 - Result & Feedback: _for showing predicted output and customer support_
 
 ![Image1](Final_Deliverables/Screenshots/ResultAndFeedbackPage.jpeg)
-
-## Acknowledgement
-
-We would like to sincerely thank IBM for exposing us to its key technologies and for providing a number of implementations of them. We appreciate the collaboration of every member of our team and the Naan Mudhalvan programme of the Tamil Nadu government in delivering this project to a successful conclusion.
-
