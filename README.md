@@ -32,3 +32,8 @@ Faculty Mentor: _Dr. Kavitha C_, Assistant Professor (Sl. Gr.), [PSG College of 
 - Result & Feedback: _for showing predicted output and customer support_
 
 ![Image1](Final_Deliverables/Screenshots/ResultAndFeedbackPage.jpeg)
+
+## Acknowledgement
+
+We would like to sincerely thank IBM for exposing us to its key technologies and for providing a number of implementations of them. We appreciate the collaboration of every member of our team and the Naan Mudhalvan programme of the Tamil Nadu government in delivering this project to a successful conclusion.
+
